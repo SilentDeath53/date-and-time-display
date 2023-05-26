@@ -1,1 +1,2 @@
-# date-and-time-display
+# Date and Time Display
+Displays the current date and time.
